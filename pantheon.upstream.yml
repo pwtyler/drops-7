@@ -24,3 +24,4 @@ protected_web_paths:
 # are disabled.
 protected_web_paths_override: false
   
+php_runtime_generation: 1
